@@ -1,0 +1,32 @@
+
+html{
+  height:100%;
+  width:100%;
+}
+body{
+  height:100%;
+  width:100%;
+}
+
+
+ 
+.con{
+  width :960px;
+}
+
+.plcHd{
+  display:block;
+	max-width: 20%;
+	margin:0 auto;
+}
+
+
+.landList{
+  display: block;
+    max-width: 100%;
+    margin: auto;
+  list-style-type: none;
+  padding-bottom: 6%;
+  text-align: center;
+}
+
